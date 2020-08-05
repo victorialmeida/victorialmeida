@@ -28,9 +28,7 @@ I'm a systems development student, focused on front-end development and ux / ui 
 <p>In addition to saying hi on linkedin you can send me an email: annavickalmeidasa@hotmail.com.<p>
 
 <br>
-<br>
 <p>[...] Who knows more things here [🚧]
 <br>
-<br>
-<br>
+
 <p>So, bye you.💜
