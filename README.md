@@ -6,5 +6,5 @@
 </a>
 
 <a href="https://victoriaalmeida.myportfolio.com/">
-<img align="center" src="https://img.shields.io/static/v1?label=&message=Pórtfolio&color=1A1818&style=for-the-badge&logo=adobe"/>
+<img align="center" src="https://img.shields.io/static/v1?label=&message=Portfolio&color=1A1818&style=for-the-badge&logo=adobe"/>
 </a>
