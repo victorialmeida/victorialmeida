@@ -1,4 +1,4 @@
-### Hi there 👋
+![Banner - Profile](https://user-images.githubusercontent.com/54548466/89436417-92ca2980-d71c-11ea-9b1e-237ecea3bcc8.jpg)
 
 <!--
 **victorialmeida/victorialmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
