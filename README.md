@@ -1,4 +1,4 @@
-![Banner - Profile](https://user-images.githubusercontent.com/54548466/89436519-bc835080-d71c-11ea-8dd1-36e1f272c3ea.jpg)
+<img width="auto" src="https://user-images.githubusercontent.com/54548466/89436519-bc835080-d71c-11ea-8dd1-36e1f272c3ea.jpg">
 
 
 <a href="https://www.linkedin.com/in/victória-almeida-5293321a4/">
