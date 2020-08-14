@@ -1,4 +1,4 @@
-<img width="auto" src="https://user-images.githubusercontent.com/54548466/89436519-bc835080-d71c-11ea-8dd1-36e1f272c3ea.jpg">
+![Letter - 1](https://user-images.githubusercontent.com/54548466/90276365-2ba62680-de3a-11ea-8702-805c9a360732.jpg)>
 
 
 <a href="https://www.linkedin.com/in/victória-almeida-5293321a4/">
