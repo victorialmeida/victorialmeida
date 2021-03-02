@@ -5,9 +5,6 @@
 <img align="center" src="https://img.shields.io/static/v1?label=&message=Linkedin&color=3D008A&style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://victoriaalmeida.myportfolio.com/">
-<img align="center" src="https://img.shields.io/static/v1?label=&message=Portfolio&color=1A1818&style=for-the-badge&logo=adobe"/>
-</a>
 
 <h5>"Responsible, organized, intuitive" - User Experience</h5>
 <h4>  &#128269&#129504 | More About Me: </h4>
